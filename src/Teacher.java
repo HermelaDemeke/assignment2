@@ -8,7 +8,7 @@ public class Teacher {
         this.subject = subject;
     }
 
-    getter and setter for teacher attribute
+    //getter and setter for teacher attribute
     public String getName() {
         return name;
     }
